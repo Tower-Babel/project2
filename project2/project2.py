@@ -5,7 +5,7 @@ st.title(" :blue[Project 2:] ")
 st.title(" :blue[Optiver - Trading at the Close] ")
 
 
-image1 = Image.open("/project2/Picture1.png")
+image1 = Image.open("project2/Picture1.png")
 image2 = Image.open("project2/Picture2.png")
 image3 = Image.open("project2/Picture3.png")
 image4 = Image.open("project2/Picture4.png")
